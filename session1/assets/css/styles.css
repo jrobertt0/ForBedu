@@ -1,0 +1,45 @@
+html {
+  background-color: #fffbf7;
+}
+
+h1 {
+  color: #025157;
+}
+
+input {
+  margin: 5px;
+  height: 20px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+
+button{
+  background-color: #025157;
+  color: white;
+  margin: 5px;
+  border: 0px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+p{
+  color: #8b8b8bcc
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  max-width: 50vw;
+}
