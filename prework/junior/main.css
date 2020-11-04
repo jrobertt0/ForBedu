@@ -23,7 +23,7 @@ main {
   height: 50vh;
   position: absolute;
   bottom: 0;
-  background: url("/assets/img/bg-desktop.png");
+  background: url("assets/img/bg-desktop.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -152,7 +152,7 @@ main {
 
 @media (max-width: 380px) {
   .bg-image {
-    background: url("/assets/img/bg-mobile.png");
+    background: url("assets/img/bg-mobile.png");
     height: 100vh;
     width: 100vw;
     background-size: cover;
